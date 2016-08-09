@@ -1,0 +1,21 @@
+{
+  "name": "commonform-wordy",
+  "description": "annotate Common Forms containing needlessly wordy language",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "dependencies": {
+    "wordy-words": "0.0.18"
+  },
+  "devDependencies": {
+    "standard": "^7.1.2"
+  },
+  "files": [
+    "index.js",
+    "NOTICE"
+  ],
+  "license": "Apache-2.0",
+  "repository": "commonform/commonform-wordy",
+  "scripts": {
+    "lint": "standard"
+  }
+}
